@@ -1,0 +1,11 @@
+{
+    "name": "Agp/ModAdm",
+    "description": "Módulo Adm",
+    "authors": [
+        {
+            "name": "Richard Cardoso",
+            "email": "richardpcardoso@gmail.com"
+        }
+    ],
+    "require": {}
+}
