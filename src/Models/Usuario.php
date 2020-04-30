@@ -1,6 +1,6 @@
 <?php
 
-namespace Agp\ModAdm\Models;
+namespace agp\mod_adm\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

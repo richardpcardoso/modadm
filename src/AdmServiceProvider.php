@@ -1,6 +1,6 @@
 <?php
 
-namespace Agp\ModAdm;
+namespace agp\mod_adm;
 
 use Illuminate\Support\ServiceProvider;
 
